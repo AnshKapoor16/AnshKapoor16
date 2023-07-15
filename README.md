@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshKapoor16&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Hi Geek!! 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=shivam-bhadani" alt = "shivam-bhadani" /> </p> 
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AnshKapoor16" alt = "shivam-bhadani" /> </p> 
 
 - 👋 Hi there I'm Ansh Kapoor 👋.
 - 🌱 I'm exploring different fields in software development and learning new skills.
-- 📫 You can contact me through email - shivambhadani19@gmail.com
+- 📫 You can contact me through email - kapoor.ansh16@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-bhadani&show_icons=true&count_private=true&theme=radical"]</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshKapoor16&show_icons=true&count_private=true&theme=radical"]</p>
 
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ansh-kapoor/)
