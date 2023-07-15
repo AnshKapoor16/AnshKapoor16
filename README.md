@@ -1,4 +1,5 @@
-<!-- ### Hi there I'm @AnshKapoor16 👋
+ ### Hi there I'm @AnshKapoor16 👋
+ <!--
 - 🔭 I’m currently working on creating websites using React.
 - 🌱 I’m currently learning Back-End Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ansh-kapoor/)
@@ -18,11 +19,8 @@ Here are some ideas to get you started:
 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=AnshKapoor16)](https://git.io/streak-stats) -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshKapoor16&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AnshKapoor16" alt = "ansh-kapoor" /> </p> 
 
-### Hi Geek!! 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AnshKapoor16" alt = "shivam-bhadani" /> </p> 
-
-- 👋 Hi there I'm Ansh Kapoor 👋.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - 📫 You can contact me through email - kapoor.ansh16@gmail.com
 
