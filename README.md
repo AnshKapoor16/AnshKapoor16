@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AnshKapoor16" alt = "ansh-kapoor" /> </p> 
+<!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AnshKapoor16" alt = "ansh-kapoor" /> </p> -->
 
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - 📫 You can contact me through email - kapoor.ansh16@gmail.com
