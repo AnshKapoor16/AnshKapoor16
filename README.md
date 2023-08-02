@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - 📫 You can contact me through email - kapoor.ansh16@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshKapoor16&show_icons=true&count_private=true&theme=radical"]</p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshKapoor16&show_icons=true&count_private=true&theme=radical"]</p> -->
 
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ansh-kapoor/)
